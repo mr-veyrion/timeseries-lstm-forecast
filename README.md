@@ -42,6 +42,7 @@ Created and maintained by [mr-veyrion](https://github.com/mr-veyrion).
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/mr-veyrion/timeseries-lstm-forecast.git
+   cd timeseries-lstm-forecast
 
 2. **Create and Activate Environment**
 
