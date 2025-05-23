@@ -1,0 +1,8 @@
+
+numpy
+tensorflow
+pycaret[full] # Installs all extras for pycaret, including time series
+scikit-learn
+matplotlib
+pandas
+yfinance     # For fetching stock data as an example
