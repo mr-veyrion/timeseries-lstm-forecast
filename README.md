@@ -48,6 +48,7 @@ Created and maintained by [mr-veyrion](https://github.com/mr-veyrion).
    ```bash
    conda create -n tsforecast python=3.9 -y
    conda activate tsforecast
+   ```
 
    *Or using `venv`:*
 
